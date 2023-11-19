@@ -13,6 +13,8 @@ Age? Income? Certain types of goods? Family status?....
 
 ## DATA:
 
+The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle
+
 ## TOOLS:
 
 1. Softwares: Jupyter Notebooks and MS.Excel
