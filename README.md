@@ -14,10 +14,13 @@ Age? Income? Certain types of goods? Family status?....
 ## DATA:
 The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle.
 
-1. 
-2. 
-3.
-4. 
+The Datasets included data on the followings:
+
+1. Orders 
+2. Orders_Products_prior
+3. Products
+4. Customers
+5. Departments
 
 ## TOOLS:
 
